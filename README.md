@@ -12,3 +12,8 @@ Con este pequeño repositorio buscamos darle a la comunidad un espacio donde pue
 
 Pratica 01  Procesamiento por lotes.
 -[Practica 01 procesamiento por lotes CÓDIGO](https://github.com/Dexne/S.S.O/tree/main/Practica%2001%20Procesamiento%20por%20lotes%201)
+
+Investigación 02
+-[Algoritmos de planificación de procesos](Algoritmos_de_planificación_de_procesos.pdf)
+
+Los algoritmos de planificación son esenciales en la administración de procesos en sistemas operativos. Definen el orden en que las tareas se ejecutan en la CPU. Destacan el Round Robin, que asigna tiempos de CPU equitativos; SJF (Shortest Job First), priorizando tareas más cortas; FIFO (First-In-First-Out), siguiendo el orden de llegada, y algoritmos basados en prioridades, atendiendo a la importancia.
