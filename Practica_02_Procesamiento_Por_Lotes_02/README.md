@@ -17,7 +17,12 @@ Pasos para la correcta ejecucion:
         Navege hasta la ruta donde tiene su archivo main.py
         Ejecutar el siguiente comando: python3 main.py
 
-    El programa le pedirá la ruta de la carpeta donde trabajará
+El programa le pedirá la ruta de la carpeta donde trabajará
 
-    Asegurese de ingresarla tal cual es, de ser posible, copia la ruta desde
-    el explorador de archivos.
+Asegurese de ingresarla tal cual es, de ser posible, copia la ruta desde
+el explorador de archivos.
+
+Aquí podremos encontrar el código fuente
+Script elaborado en el lenguaje de programación Python
+
+Para una mejor eficacia de la actividad colocar los archivos de texto de prueba en una misma carpeta y dentro de ella generar sub-carpetas.
