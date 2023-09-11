@@ -26,3 +26,6 @@ Aquí podremos encontrar el código fuente
 Script elaborado en el lenguaje de programación Python
 
 Para una mejor eficacia de la actividad colocar los archivos de texto de prueba en una misma carpeta y dentro de ella generar sub-carpetas.
+
+Aquí adjunto un video del funcionamiento
+[Video de funcionamiento](https://github.com/Dexne/S.S.O/blob/main/Practica_02_Procesamiento_Por_Lotes_02/Procesamiento_Por_lotes.gif)
