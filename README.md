@@ -1,4 +1,4 @@
-# S.S.O
+# Seminario de Sistemas Operativos
 Pequeño repositorio donde recopilaremos los trabajos de la asignación de Seminario de Sistemas Operativos.
 
 
@@ -26,3 +26,7 @@ Algortimos de planificación 1:
 - Prioridades
 
 [Algoritmos de planificación](https://github.com/Dexne/S.S.O/tree/main/Algoritmos_de_planificaci%C3%B3n_1)
+
+Aquí una pequeña actualización del código de algoritmos de planificación, ahora en su versión 2 donde se ha añadido la posibilidad de que el usuario pueda agregar nuevos servicios, así mismo, como medida de perseverancia de los datos, los nuevos servicios que se añadan serán almacenandos en el documento txt existente.
+
+[Algoritmos de planificación versión 2](https://github.com/Dexne/S.S.O/tree/main/Algoritmos_de_planificacion_v2)
