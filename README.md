@@ -30,3 +30,11 @@ Algortimos de planificación 1:
 Aquí una pequeña actualización del código de algoritmos de planificación, ahora en su versión 2 donde se ha añadido la posibilidad de que el usuario pueda agregar nuevos servicios, así mismo, como medida de perseverancia de los datos, los nuevos servicios que se añadan serán almacenandos en el documento txt existente.
 
 [Algoritmos de planificación versión 2](https://github.com/Dexne/S.S.O/tree/main/Algoritmos_de_planificacion_v2)
+
+Algortimos de planificación de memoria:
+- Primero ajuste
+- Mejor ajuste
+- Peor ajuste
+- Siguiente ajuste
+
+[Algoritmos de planificación de memoria](https://github.com/Dexne/S.S.O/blob/main/Algoritmos_de_administracion_de_memoria.pdf)
