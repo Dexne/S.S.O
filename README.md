@@ -31,10 +31,21 @@ Aquí una pequeña actualización del código de algoritmos de planificación, a
 
 [Algoritmos de planificación versión 2](https://github.com/Dexne/S.S.O/tree/main/Algoritmos_de_planificacion_v2)
 
-Algortimos de planificación de memoria:
+Algortimos de administración de memoria:
+
+Los algoritmos de administración de memoria son esenciales en sistemas 
+informáticos para asignar y liberar recursos de memoria de manera eficiente.
+
 - Primero ajuste
 - Mejor ajuste
 - Peor ajuste
 - Siguiente ajuste
 
-[Algoritmos de planificación de memoria](https://github.com/Dexne/S.S.O/blob/main/Algoritmos_de_administracion_de_memoria.pdf)
+[Algoritmos de administración de memoria](https://github.com/Dexne/S.S.O/blob/main/Algoritmos_de_administracion_de_memoria.pdf)
+
+Algoritmos de administración de memoria
+
+Implementación código
+
+[implementación en código de los algoritmos de administración de memoria](https://github.com/Dexne/S.S.O/tree/main/Algoritmos_de_administracion_de_memoria)
+
