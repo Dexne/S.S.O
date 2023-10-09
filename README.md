@@ -49,3 +49,17 @@ Implementación código
 
 [implementación en código de los algoritmos de administración de memoria](https://github.com/Dexne/S.S.O/tree/main/Algoritmos_de_administracion_de_memoria)
 
+
+Investigación Hilos y Procesos.
+
+**Hilos** son subprocesos dentro de un proceso principal que comparten recursos y ejecutan tareas de manera independiente, optimizando la multitarea y la concurrencia en software.
+
+**Procesos** son programas en ejecución, cada uno con su espacio de memoria, recursos y variables, que pueden ejecutarse de forma concurrente en un sistema operativo, brindando aislamiento y seguridad.
+
+**Paralelismo** se refiere a la ejecución simultánea de tareas para mejorar el rendimiento en hardware de múltiples núcleos, distribuyendo la carga de trabajo entre ellos.
+
+**Multiprogramación** permite ejecutar varios programas simultáneamente en una computadora, mejorando la utilización del procesador al alternar entre tareas, reduciendo la espera.
+
+[Investigación sobre hilos, procesos, paralelismos y multiprogramación](https://github.com/Dexne/S.S.O/blob/main/Investigaci%C3%B3n.pdf)
+
+
