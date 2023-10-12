@@ -58,8 +58,15 @@ Investigación Hilos y Procesos.
 
 **Paralelismo** se refiere a la ejecución simultánea de tareas para mejorar el rendimiento en hardware de múltiples núcleos, distribuyendo la carga de trabajo entre ellos.
 
+
 **Multiprogramación** permite ejecutar varios programas simultáneamente en una computadora, mejorando la utilización del procesador al alternar entre tareas, reduciendo la espera.
 
 [Investigación sobre hilos, procesos, paralelismos y multiprogramación](https://github.com/Dexne/S.S.O/blob/main/Investigaci%C3%B3n.pdf)
 
 
+Algoritmos de administración de memoria - Version 2
+
+Esta es la versión mejorada del código de algoritmos de planificación de memoria.
+Esta es la version mejorada del codigo de implementacion de los algoritmos.
+
+[version mejorada](https://github.com/Dexne/S.S.O/tree/main/Administrador_de_memoria_2)
