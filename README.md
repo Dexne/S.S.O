@@ -79,3 +79,11 @@ Los hilos (threads) en programación son unidades de ejecución dentro de un pro
 En esta ocasión la asignación es mover 2 imagenes haciendo uso de los hilos, uno para cada imagen existente.
 
 [Práctica con hilos](https://github.com/Dexne/S.S.O/tree/main/Hilos)
+
+Producto-Consumidor
+
+El problema del productor y consumidor es muy popular en el mundo de la programación paralela. El problema considera tres objetos: un productor, un consumidor, y un contenedor.
+
+
+[Repositorio con reporte e implementación en código](https://github.com/Dexne/S.S.O/tree/main/Producto-Consumidor)
+
