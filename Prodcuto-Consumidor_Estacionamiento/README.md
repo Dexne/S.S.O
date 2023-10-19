@@ -18,3 +18,5 @@ multi-hilo o multi-proceso.
 Se nos pide simular el proceso de cómo funciona un estacionamiento, se tienen los métodos de ingresar y retirar autos del estacionamiento, los cuales toman un valor
 random entre las opciones de 0.5, 1 y 2 segundos.
 También se tienes las funciones de moficar la frecuencia de inserciones y salidas mediante botones desplegables
+
+Estas acciones se logran gracias al uso de hilos, manejando un hilo para las inserciones y otro para las reducciones.
