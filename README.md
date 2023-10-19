@@ -87,3 +87,12 @@ El problema del productor y consumidor es muy popular en el mundo de la programa
 
 [Repositorio con reporte e implementación en código](https://github.com/Dexne/S.S.O/tree/main/Producto-Consumidor)
 
+
+Producto-Consumidor | Práctica simulación de estacionamiento
+
+El proposito de esta actividad es la de simular el funcionamiento de un estacionamiento
+Se debe de poder dar la opción de acelerar la velocidad con la que los autos ingresan y también la velocidad con la que se retiran
+Todo esto se logra gracias al uso de hilos para manejar ambos procesos de manera independiente.
+
+[Simulación del estacionamiento](https://github.com/Dexne/S.S.O/tree/main/Prodcuto-Consumidor_Estacionamiento)
+
