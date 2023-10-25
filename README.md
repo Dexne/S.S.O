@@ -96,3 +96,11 @@ Todo esto se logra gracias al uso de hilos para manejar ambos procesos de manera
 
 [Simulación del estacionamiento](https://github.com/Dexne/S.S.O/tree/main/Prodcuto-Consumidor_Estacionamiento)
 
+
+Investigación Problema del Lector-Escritor:
+
+
+El término "lector-escritor" suele utilizarse en el contexto de la informática y la programación, donde se refiere a una estructura que permite a un proceso o hilo (thread) leer y escribir datos en un recurso compartido.
+
+[Investigación problema Lector-Escritor](https://github.com/Dexne/S.S.O/blob/main/Lector-Escritor.pdf)
+
