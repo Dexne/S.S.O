@@ -104,3 +104,18 @@ El término "lector-escritor" suele utilizarse en el contexto de la informática
 
 [Investigación problema Lector-Escritor](https://github.com/Dexne/S.S.O/blob/main/Lector-Escritor.pdf)
 
+
+Implementación del problema del lector-escritor:
+
+El problema de los lectores-escritores se refiere a la sincronización de múltiples procesos que desean acceder a un recurso compartido, en este caso, un archivo, de manera que se cumplan ciertas reglas. El objetivo es garantizar la consistencia y la integridad de los datos al tiempo que se permiten lecturas concurrentes y se evita que las escrituras interfieran con las lecturas y viceversa.
+
+En este código, se ha implementado una versión simple del problema de los lectores-escritores utilizando semáforos para controlar el acceso al archivo compartido. El problema se manifiesta principalmente en las siguientes áreas:
+
+Acceso a la escritura: Se utiliza un semáforo (archivo_mutex) para garantizar que solo un escritor pueda acceder al archivo a la vez. Cuando un escritor está editando y guardando el archivo, se bloquea el acceso tanto a otros escritores como a los lectores.
+
+Acceso a la lectura: Se utiliza otro semáforo (lectores_mutex) para controlar el acceso a la lectura del archivo. Los lectores pueden acceder al archivo simultáneamente, siempre y cuando no haya escritores activos. Cuando un escritor está escribiendo, los lectores deben esperar a que se libere el recurso antes de acceder.
+
+Aqui tenemoos el código fuente de esta pequeña implementación del problema del lector-escritor.
+
+[Lector-Escritor implementación](https://github.com/Dexne/S.S.O/blob/main/lector-escritor.py).
+
