@@ -1,6 +1,8 @@
 # Seminario de Sistemas Operativos
 Pequeño repositorio donde recopilaremos los trabajos de la asignación de Seminario de Sistemas Operativos.
 
+### By: Dexne
+
 
 [Investigación 01: Procesamiento por lotes](Procesamiento_por_lotes.pdf)
 
@@ -118,4 +120,12 @@ Acceso a la lectura: Se utiliza otro semáforo (lectores_mutex) para controlar e
 Aqui tenemoos el código fuente de esta pequeña implementación del problema del lector-escritor.
 
 [Lector-Escritor implementación](https://github.com/Dexne/S.S.O/blob/main/lector-escritor.py).
+
+**Practica 10: Algoritmos de planificación de procesos**
+
+Esta es una versión modificada y actualizada de la práctica 4 pero con la diferencial de que een esta entrega de hace uso de hilos y además se ha desarrollado una pequeña interfaz gráfica para el usuario.
+
+Consulta el código fuente [Planificador de procesos GUI](https://github.com/Dexne/S.S.O/tree/main/Planificador_de_procesos_con_hilos).
+
+
 
